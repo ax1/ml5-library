@@ -22,6 +22,7 @@ If you've arrived here, we assume you've checked out our [quickstart](/getting-s
 > + 📝 A text editor (e.g. [Atom](https://atom.io/), [VSCode](https://code.visualstudio.com/), [Sublimetext](https://www.sublimetext.com/))
 > + 💻 Your web browser: Chrome & Firefox preferred
 > + 🖼 An image to run your classification on
+> + 💻 a web server to run the example (otherwise, the image will not be loaded), see [Web server] (local-web-server.md)
 
 
 Your project directory should look something like this:
